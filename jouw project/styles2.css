@@ -1,0 +1,20 @@
+
+
+h1{ text-align-last: center;margin-top: auto
+    
+    
+}
+div {background-color:greenyellow; margin:auto}
+table, th, tr{ border:1px solid black;}
+table{ border-color: black;
+    width: 100%; table-layout: fixed;
+    
+}
+body {
+    background-color: aquamarine
+    
+}
+#kolom1, #kolom2{
+    background-color:limegreen
+}
+#div3{ text-align: center; margin-top: 20px; font-family: cursive;}

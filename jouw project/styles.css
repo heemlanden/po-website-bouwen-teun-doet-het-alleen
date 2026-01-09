@@ -1,0 +1,14 @@
+h1 {
+    color: black; text-align: center;
+}
+h2{font-size:larger; text-align: center;}
+
+h3{ margin-bottom: auto; color:blue;text-align: center;   
+}
+
+aside{float: none}
+
+heading{float:none}  
+img{
+    align-content: center; float: right
+}
